@@ -113,7 +113,7 @@ const Hero = () => {
               className="section-title text-3xl sm:text-4xl lg:text-5xl xl:text-6xl leading-tight opacity-0 animate-fade-in text-center" 
               style={{ animationDelay: "0.3s" }}
             >
-              CSDAI Club<br className="hidden sm:inline" />CMRIT Hyderabad
+              CSD'AI Club<br className="hidden sm:inline" />CMRIT Hyderabad
             </h1>
             
             <p 
